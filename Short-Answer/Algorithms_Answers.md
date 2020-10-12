@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n) because as teh input increases, the runtime will increase at the same rate
 
 
-b)
+b) O(n log n)
 
 
-c)
+c) O(n)
 
 ## Exercise II
 
